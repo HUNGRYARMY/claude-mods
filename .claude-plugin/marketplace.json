@@ -1,0 +1,8 @@
+{
+  "name": "my-mods",
+  "owner": { "name": "Martin" },
+  "plugins": [
+    { "name": "ribbon", "source": "./ribbon", "description": "Usage and prompt-cache band above the prompt (edited copy)." },
+    { "name": "savvy-progress", "source": "./savvy-progress", "description": "Progress bar and agents panel (edited copy)." }
+  ]
+}
